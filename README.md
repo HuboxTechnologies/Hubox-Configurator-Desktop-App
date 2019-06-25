@@ -1,0 +1,2 @@
+# Hubox-Configurator-Desktop-App
+The goal is to have a desktop app that would enable the initial configuration of the Hubox, which means eating a .ini file.
